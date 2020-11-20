@@ -1,0 +1,2 @@
+0 damage
+1 whole
